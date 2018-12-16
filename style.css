@@ -30,11 +30,6 @@ body {
     padding: 0px;
 }
 
-.px-0 {
-    padding-left: 0;
-    padding-right: 0;
-}
-
 .container {
     width: 100%;
     max-width: 960px;
@@ -85,13 +80,13 @@ body {
     background: #666666;
 }
 
-/* 
-.btnprimary{
+
+button[type ="submit"]{
     font-size: 18px;
     color: #ffffff;
     background: #4aaaa5;
+    border-color: #4aaaa5;
 }
- */
 
 /* About Me Page */
 
